@@ -1,2 +1,9 @@
 *.jpg
+!AstroCam_1.jpg
+!dataset_park/test/nopark/AstroCam_2023-07-05_04-13-14.jpg
+!dataset_park/test/park/AstroCam_2023-07-13_20-54-14.jpg
+!dataset_park/train/nopark/AstroCam_2023-06-29_23-43-14.jpg
+!dataset_park/train/park/AstroCam_2023-06-28_20-03-51.jpg
+!dataset_park/valid/nopark/AstroCam_2023-07-17_00-56-14.jpg
+!dataset_park/valid/park/AstroCam_2023-07-18_03-29-14.jpg
 dataset_animal/*
