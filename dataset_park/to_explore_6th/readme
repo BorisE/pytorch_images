@@ -1,0 +1,12 @@
+Отключена проверка на наличие в действующих множествах
+*************
+Duration: 0:07:30.579116
+Model used: dataset_park/dataset_parktrained_model_20230730_3.pt
+*************
+Processed: 10165
+Was less than confidential level (0.900): 152
+        Park: 91
+        Nopark: 61
+Already in dataset: 0
+Copied to park: 91
+Copied to nopark: 61

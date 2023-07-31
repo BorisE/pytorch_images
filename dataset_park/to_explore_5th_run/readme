@@ -1,0 +1,11 @@
+*************
+Duration: 0:07:03.086175
+Model used: dataset_park/dataset_park_model_best_20230730_2.pt
+*************
+Processed: 10165
+Was less than confidential level (0.900): 277
+        Park: 189
+        Nopark: 88
+Already in dataset: 83
+Copied to park: 146
+Copied to nopark: 48

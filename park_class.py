@@ -1,3 +1,11 @@
+################################################################
+# TELESCOPE PARK CLASSIFICATION MODULE
+# 2023 By BorisE
+# based on https://github.com/spmallick/learnopencv/blob/master/Image-Classification-in-PyTorch/image_classification_using_transfer_learning_in_pytorch.ipynb
+#
+# Test given images
+# Used for testing. Recommend using park_webserber.py or write another using park_class_module.py
+################################################################
 
 #%env CUDA_VISIBLE_DEVICES=2
 
@@ -10,11 +18,10 @@ import os
 
 from PIL import Image
 
-from init import *
-
 from datetime import datetime
 start_time = datetime.now()
 
+from park_init import *
 
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 print ("Using device: " + str(device))

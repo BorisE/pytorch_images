@@ -7,3 +7,8 @@
 !dataset_park/valid/nopark/AstroCam_2023-07-17_00-56-14.jpg
 !dataset_park/valid/park/AstroCam_2023-07-18_03-29-14.jpg
 dataset_animal/*
+park_classify_sort.py
+dataset_park/dataset_park_model_*.pt
+!dataset_park/dataset_park_model_best*.pt
+dataset_park/dataset_park_history_20230723.pt
+fssort.ini
